@@ -1,0 +1,23 @@
+button{
+	padding: 7px 10px;	
+}
+.odd{
+	color: green;
+	font-weight: bold;
+}
+.even{
+	color: #069;
+	font-weight: bold;
+}
+.first{
+	color: #333;
+	font-weight: bold;
+}
+.last{
+	color: #333;
+	font-weight: bold;
+}
+.equal{
+	color:#C03EB5FF;
+	font-weight: bold;
+}
